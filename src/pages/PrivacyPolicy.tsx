@@ -518,7 +518,7 @@ const PrivacyPolicy = () => {
                     href="tel:+13308222231"
                     className="text-[#FF8C4A] no-underline font-semibold text-[14px] hover:text-[#FF6B1A]"
                   >
-                    +1 (800) 555-1234
+                    +1 (330) 822-2231
                   </a>
                 </p>
                 <p className="text-white/35 text-xs mt-2">
