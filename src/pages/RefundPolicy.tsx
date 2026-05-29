@@ -175,7 +175,7 @@ const RefundPolicy = () => {
                   href="tel:+13308222231"
                   className="text-[13px] text-[#16A34A] font-bold no-underline hover:underline"
                 >
-                  📞 +1 (800) 555-1234
+                  📞 +1 (330) 822-2231
                 </a>
               </div>
             </div>
@@ -371,7 +371,7 @@ const RefundPolicy = () => {
                   {
                     step: 1,
                     title: "Contact us within the eligible timeframe",
-                    desc: "Call us at +1 (800) 555-1234 or email refunds@printercarehelps.com. Have your service date and any reference number ready.",
+                    desc: "Call us at  +1 (330) 822-2231 or email refunds@printercarehelps.com. Have your service date and any reference number ready.",
                   },
                   {
                     step: 2,
@@ -479,7 +479,7 @@ const RefundPolicy = () => {
                 ))}
               </ul>
               <p className="text-[14px] text-[#334155] leading-relaxed mt-3">
-                To cancel a session, call us at +1 (800) 555-1234 or email us at
+                To cancel a session, call us at +1 (330) 822-2231 or email us at
                 support@printercarehelps.com. Please have your booking reference
                 ready.
               </p>
@@ -495,7 +495,7 @@ const RefundPolicy = () => {
               </p>
               <ul className="list-none mt-2 space-y-1">
                 {[
-                  "Contact us first: refunds@printercarehelps.com or +1 (800) 555-1234",
+                  "Contact us first: refunds@printercarehelps.com or  +1 (330) 822-2231",
                   "We will respond within 2 business days and aim to resolve within 10 business days",
                   "If we cannot resolve your complaint, you retain the right to dispute the charge with your card issuer",
                   "We will cooperate fully with any bank or card dispute investigation",
@@ -538,7 +538,7 @@ const RefundPolicy = () => {
                     href="tel:+13308222231"
                     className="text-[#FF8C4A] no-underline font-semibold text-[14px] hover:text-[#FF6B1A]"
                   >
-                    +1 (800) 555-1234
+                    +1 (330) 822-2231
                   </a>{" "}
                   — Available 24/7
                 </p>
@@ -548,7 +548,7 @@ const RefundPolicy = () => {
                     href="https://wa.me/13308222231"
                     className="text-[#FF8C4A] no-underline font-semibold text-[14px] hover:text-[#FF6B1A]"
                   >
-                    WhatsApp: +1 (800) 555-1234
+                    WhatsApp: +1 (330) 822-2231
                   </a>
                 </p>
                 <p className="text-white/35 text-xs mt-2.5">
